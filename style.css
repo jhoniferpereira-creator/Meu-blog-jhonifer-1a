@@ -1,12 +1,13 @@
-.cabecalho
-{ background-color: black;
-     color: aliceblue; 
-     text-align: center;
-      margin: 0 auto;
-       max-width: 800px; 
-    
-    }
-    ,principal{
-        backgroud-color: purple;
-        color: black;
-    }
+
+.cabecalho{
+     background-color: black;
+      color: aliceblue;
+       text-align: center;
+        margin: 0 auto; 
+        max-width: 800px;
+        padding: 30px;
+     }
+      .principal{
+         background-color: aliceblue;
+          color: black; 
+        }
